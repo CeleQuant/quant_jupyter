@@ -1,5 +1,5 @@
 # quant_jupyter
-learn quantitative trade in jupyter notebook
+learn quantitative trade in jupyter notebook.
 
 ###  install jupter notebook  
 
