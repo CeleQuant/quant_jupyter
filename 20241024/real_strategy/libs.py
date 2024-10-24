@@ -265,12 +265,3 @@ class StrategyFrame():
         except Exception as e:
             print(e)
     ##
-
-
-SF = StrategyFrame(pd.DataFrame())
-print(f'btc:{SF.btc_balance:8f}, usdt:{SF.usdt_balance}')
-last_price = SF.exchange_order_price()
-print(last_price)
-# # SF.exchange_limit_sell_order(1,last_price)
-order_df = SF.exchange_get_orders('BTC/USDT')
-print(order_df)
