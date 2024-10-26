@@ -166,3 +166,4 @@ cython_debug/
 /20241024/real_strategy/config.py
 /20241024/real_strategy/BTCUSDT.csv
 /20241025/data.csv
+config/
